@@ -1,5 +1,3 @@
-# Redact_app
-
 # Text Redaction App
 
 ## Table of Contents
@@ -13,8 +11,7 @@
   - [Basic Usage](#basic-usage)
   - [Advanced Features](#advanced-features)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Description
 The Text Redaction App is a web application that enables users to securely share content on social media by obfuscating portions of text they wish to keep private. Users can input text, specify words to be redacted, and select custom replacement characters or words. The app then redacts the specified words, enhancing privacy and security when sharing content.
