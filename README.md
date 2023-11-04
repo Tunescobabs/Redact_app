@@ -24,8 +24,8 @@ The Text Redaction App is a web application that enables users to securely share
 - User-friendly and responsive design.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.jpg)
+![Web page without input/output](https://github.com/Tunescobabs/redact_app/blob/main/screenshots/screenshot1.JPG)
+![Web page with input/output](https://github.com/Tunescobabs/redact_app/blob/main/screenshots/screenshot2.JPG)
 
 ## Getting Started
 Follow these steps to get the Text Redaction App up and running on your local machine.
