@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+    <title>Text Redaction</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>REDACT NOW!</h1>
+    <form id="redactionForm">
+        <textarea id="textInput" rows="10" cols="50" placeholder="Enter text"></textarea><br>
+        <input type="text" id="redactWords" placeholder="Words to redact"><br>
+        <input type="text" id="replacement" placeholder="Replacement (e.g., ****)"><br>
+        <button type="button" id="redactButton">Redact Now</button>
+    </form>
+    <div id="redactedText"></div>
+    <script src="app.js"></script>
+</body>
+
+</html>
