@@ -24,8 +24,8 @@ The Text Redaction App is a web application that enables users to securely share
 - User-friendly and responsive design.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.jpg)
+![Screenshot 2](screenshots/screenshot2.jpg)
 
 ## Getting Started
 Follow these steps to get the Text Redaction App up and running on your local machine.
